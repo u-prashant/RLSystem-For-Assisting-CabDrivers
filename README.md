@@ -12,4 +12,4 @@ There are some basic rules governing the ride-allocation system. If the cab is a
 
 Taking long-term profit as the goal, you propose a method based on reinforcement learning to optimize taxi driving strategies for profit maximization. This optimization problem is formulated as a Markov Decision Process. Refer to [MDP File](MDP.pdf).
 
-[taxi](taxi.png)
+![taxi](taxi.png)
